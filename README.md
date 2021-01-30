@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Giannis Baltas I'm from Greece, Studying Computer Science at Athens University of Economics and Business. You can find me on  [![LinkedIn][3.2]][2].
-- 🔭 I’m currently working on personal projects
+My name is Giannis Baltas. I'm from Greece, studying Computer Science at Athens University of Economics and Business. You can find me on  [![LinkedIn][3.2]][2].
+- 🔭 I’m currently working on personal projects.
 - 📫 How to reach me: giannisbaltas2k@gmail.com
 
 <!-- links to your social media accounts -->
