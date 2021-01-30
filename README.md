@@ -4,12 +4,6 @@ My name is Giannis Baltas I'm from Greece, Studying Computer Science at Athens U
 - 🔭 I’m currently working on personal projects
 - 📫 How to reach me: giannisbaltas2k@gmail.com
 
-
-
-<a href="https://github.com/johnnycleaver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnycleaver&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="gvasilakiss's GitHub Stats" />
-</a>
-
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/johnnycleaver
