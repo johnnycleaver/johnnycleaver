@@ -4,8 +4,6 @@ My name is Giannis Baltas I'm from Greece, Studying at the University of AUEB. Y
 - 🔭 I’m currently working on personal projects
 - 📫 How to reach me: giannisbaltas2k@gmail.com
 
-## &#x1f4c8; GitHub Stats
-
 
 
 <a href="https://github.com/johnnycleaver">
