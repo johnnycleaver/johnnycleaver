@@ -4,6 +4,7 @@ My name is Giannis Baltas. I'm from Greece, studying Computer Science at Athens 
 - 🔭 I’m currently working on personal projects.
 - 📫 How to reach me: giannisbaltas2k@gmail.com
 
+![dosthgreat1](https://user-images.githubusercontent.com/56088382/106472911-d58e7380-64ab-11eb-9ea9-35137fd73704.jpg)
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/johnnycleaver
